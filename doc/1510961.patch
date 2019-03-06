@@ -2,7 +2,7 @@
 # User Timothy <timothy.lui@mail.utoronto.ca>
 # Date 1551836016 00000
 #      Wed Mar 06 01:33:02 2019 +0000
-Bug 1510961 Class Structure Warning: 'private' method declared 'final'
+# Bug 1510961 Class Structure Warning: 'private' method declared 'final'
 
 diff --git a/mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/GeckoLoader.java b/mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/GeckoLoader.java
 --- a/mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/GeckoLoader.java
